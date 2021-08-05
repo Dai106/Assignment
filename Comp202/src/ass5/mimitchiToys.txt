@@ -1,0 +1,3 @@
+Fisher	purple	kite	24
+Garfield	orange	teddy bear	23
+Chuchu	purple	car	12
